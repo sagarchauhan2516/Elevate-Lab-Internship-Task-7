@@ -1,0 +1,38 @@
+Task 7 :Identify and Remove Suspicious Browser Extensions
+
+Objective: Learn to spot and remove potentially harmful browser extensions.
+Tools:Any web browser (Chrome, Firefox)
+Deliverables: List of suspicious extensions found and removed (if any)
+
+1. Browser(s) Checked:
+   * Google Chrome & Mozilla Firefox
+
+2. Steps Taken:
+   1. Opened the browser's extension manager.
+   2. Reviewed each installed extension, checking for unfamiliar names, excessive permissions, and user reviews.
+   3. Identified suspicious or unused extensions based on the criteria.
+   4. Removed identified suspicious/unused extensions.
+   5. Restarted the browser to confirm changes and observe performance.
+
+3. Extensions Found and Removed (if any):
+
+   * Extension Name: FastSearch Toolbar
+     * Reason for Removal: Unrecognized, installed without consent, requested "read and change all data" permission for a simple search tool.
+   * Extension Name: PDF Converter Free
+     * Reason for Removal: No longer used, excessive permissions (access to Browse history), low reviews.
+   * Extension Name: Web Helper Plus
+     * Reason for Removal: Caused pop-up ads and redirects, unrecognized developer.
+
+4. How Malicious Extensions Can Harm Users:
+
+   Based on research, malicious browser extensions pose significant threats to users' security and privacy. They can:
+
+   * Steal Sensitive Data: Collect personal information, login credentials, and financial details by reading form inputs or monitoring Browse activity.
+   * Inject Unwanted Ads and Redirects: Force users to view advertisements or redirect their browser to malicious/unwanted websites, disrupting the Browse experience and potentially leading to phishing or malware.
+   * Track User Activity: Monitor Browse history, search queries, and online behavior, which can be sold to data brokers or used for targeted attacks.
+   * Install Other Malware: Act as a dropper for more severe forms of malware onto the user's system, leading to system compromise.
+   * Degrade Performance: Consume significant system resources, leading to slow browser performance, increased CPU usage, and battery drain (e.g., cryptominers).
+
+5. Conclusion:
+
+   Regularly auditing browser extensions is a critical security practice. By understanding the common indicators of malicious extensions and their potential harms, users can proactively protect their online privacy and security. Removing unnecessary extensions also helps reduce the attack surface.
